@@ -3,11 +3,11 @@ Last used: 5 Jul 2019
 Last updated: 25 Jul 2019
 
 ### Description
-This is a recipe for tau huay suitable for use with ingredients found locally in the U.S., specifically for Cambridge, MA. This recipe creates a tau huay with a more traditional texture as opposed to Lao Ban's style of tau huay. Traditional texture can be achieved by setting soy milk with GDL (glucono delta-lactone) or gypsum (a.k.a calcium sulfate, 石膏粉), while Lao Ban's style can be achieve by setting with carrageenan (a.k.a RED MAN's Instant Jelly Powder).  
+This is a tau huay recipe suitable for use with ingredients found locally in the U.S., specifically for Cambridge, MA. This recipe creates a tau huay with a more traditional texture, as opposed to Lao Ban's style of tau huay. A traditional texture can be obtained by setting soy milk with GDL (glucono delta-lactone) or gypsum (a.k.a calcium sulfate, 石膏粉), whereas Lao Ban's style can be obtained by setting soy milk with carrageenan (a.k.a RED MAN's Instant Jelly Powder).  
 
-Unlike tau hauy made directly from raw soy beans (out of scope of this recipe), this recipe uses soy milk as the starting ingredient, sacrificing some freshness and control for convenience. When starting with soy milk, a critical parameter is its level of dilution.  
+Unlike tau hauy made directly from raw soy beans (out of scope from this recipe), this recipe uses soy milk as the starting ingredient, sacrificing some freshness and control to gain convenience. When starting with soy milk, a critical parameter of the recipe would be the level of dilution of the soy milk.  
 
-Unsweetened soy milk tend to diluted less than than sweetened soy milk. This is deduced by reading the declared "Nutrition Facts" and assuming that all the declared protein comes from soy proteins. Commercial soy milk tends to diluted compared to homemade soy milk and most soy milk have a soy concentration too low to be set properly. Fortunately, some unsweetened soy milk are above the settable threshold for this recipe to work.
+Commercial unsweetened soy milk tends to be diluted less than commercial sweetened soy milk. This is deduced by reading the declared "Nutrition Facts" and assuming that all the declared protein comes from soy proteins. Unfortunately, commercial soy milk are generally more diluted compared to homemade soy milk, to the extent that most commercial soy milk have a soy concentration too low to be set properly. Fortunately, there exist some commercial unsweetened soy milk that are above the settable threshold for this recipe to work.
 
 ### Ingredients
 ##### Boil in pot
